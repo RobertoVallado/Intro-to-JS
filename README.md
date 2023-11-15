@@ -17,13 +17,13 @@ Make sure you have the following installed:
 - [Node.js](https://nodejs.org/) (for running JavaScript code outside the browser)
 
 ### Usage
-    Ensure you have Node.js installed on your machine.
+Ensure you have Node.js installed on your machine.
 
-    Open Visual Studio Code and navigate to the directory where the script.js file is located.
+Open Visual Studio Code and navigate to the directory where the script.js file is located.
 
-    Open the terminal in Visual Studio Code using the shortcut Ctrl + backtick key ` or go to View > Terminal.
+Open the terminal in Visual Studio Code using the shortcut Ctrl + backtick key ` or go to View > Terminal.
 
-    Run the JavaScript file using the following command:
+Run the JavaScript file using the following command:
 
 ```javascript
 node script.js
